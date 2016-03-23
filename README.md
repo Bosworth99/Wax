@@ -1,4 +1,4 @@
-# Wax Framework
+# WaxJS Framework
 
 This is an ad-hoc framework to manage a multi-page app, developed after the fact. The N8 Site Builder didn't have any kind of modular utility (like Require) in place, useing an object literal namespace, instead. 
 
